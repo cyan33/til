@@ -12,6 +12,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 * [Front-End Development](#front-end)
 * [Git](#git)
+* [Vim](#vim)
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [Webpack](#webpack)
@@ -25,6 +26,10 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 ### Git
 
 - [Change the Commit History with Git Rebase](git/git-rebase-interactive.md)
+
+### Vim
+
+- [Vim Basic Starter](vim/basic-starter.md)
 
 ### JavaScript
 
