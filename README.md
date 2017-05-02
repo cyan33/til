@@ -25,7 +25,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### Git
 
-- [Change the Commit History with Git Rebase](git/git-rebase-interactive.md)
+- [Change the Commit History with Git Rebase](git/interactive-rebase.md)
 
 ### Vim
 
