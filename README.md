@@ -10,12 +10,17 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### Categories
 
+* [Front-End Development](#front-end)
 * [Git](#git)
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [Webpack](#webpack)
 
 ---
+
+### Front-End
+
+- [What's the difference between *polyfill*, *shim*, and *fallback*](front-end-dev/whats-the-meaning-of-polyfill-fallback-shim.md)
 
 ### Git
 
