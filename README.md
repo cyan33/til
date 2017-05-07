@@ -26,7 +26,6 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 ### Git
 
 - [Change the Commit History with Git Rebase](git/interactive-rebase.md)
-
 - [Modify-Multiple-Commits-Author](git/modify-all-commits-author.md)
 
 ### Vim
