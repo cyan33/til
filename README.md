@@ -27,13 +27,15 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 - [Change the Commit History with Git Rebase](git/interactive-rebase.md)
 
+- [Modify-Multiple-Commits-Author](git/modify-all-commits-author.md)
+
 ### Vim
 
 - [Vim Basic Starter](vim/basic-starter.md)
 
 ### JavaScript
 
-- [The Use Cases of JavaScript Reduce Function](javascrit/array-reduce.md)
+- [The Use Cases of JavaScript Reduce Function](javascript/array-reduce.md)
 
 ---
 
