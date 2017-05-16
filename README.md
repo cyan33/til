@@ -36,6 +36,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 - [The Use Cases of JavaScript Reduce Function](javascript/array-reduce.md)
 - [How to Tell the Local Environment with JavaScript](javascript/how-to-tell-the-local-env-with-js.md)
+- [What's the Difference Between module.exports and exports](javascript/whats-the-difference-between-module-exports-and-exports.md)
 
 ---
 
