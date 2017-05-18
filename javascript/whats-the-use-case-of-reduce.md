@@ -46,4 +46,6 @@ const composite = (...args) => {
 }
 ```
 
+Little tip: try to focus on designing the api, which is the parameters and the return values of each function at first!
+
 Thanks for @loatheb for this awesome solution!
