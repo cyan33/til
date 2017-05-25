@@ -39,6 +39,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 - [How to Tell the Local Environment with JavaScript](javascript/how-to-tell-the-local-env-with-js.md)
 - [What's the Difference Between module.exports and exports](javascript/whats-the-difference-between-module-exports-and-exports.md)
 - [What's the Use Case of Reduce](javascript/whats-the-use-case-of-reduce)
+- [Modularity in JavaScript in Short - CommonJS, AMD and ES Harmony](javascript/writing-modular-javascript.md)
 
 ---
 
