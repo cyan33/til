@@ -13,6 +13,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 * [Front-End Development](#front-end)
 * [Git](#git)
 * [Vim](#vim)
+* [UNIX](#unix)
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [Webpack](#webpack)
@@ -32,6 +33,10 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 ### Vim
 
 - [Vim Basic Starter](vim/basic-starter.md)
+
+### UNIX
+
+- [How to Copy, Move, Rename, Delete Files with UNIX](unix/copy-move-rename-delete.md)
 
 ### JavaScript
 
