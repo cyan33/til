@@ -38,6 +38,8 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 ### UNIX
 
 - [How to Copy, Move, Rename, Delete Files with UNIX](unix/copy-move-rename-delete.md)
+- [File Navigation](unix/file-navigation.md)
+- [Metacharacters in Regular Expression](unix/metacharacters-in-regex.md)
 
 ### JavaScript
 
@@ -48,6 +50,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 - [Modularity in JavaScript in Short - CommonJS, AMD and ES Harmony](javascript/writing-modular-javascript.md)
 - [Decimal to Binary and Vice Versa](javascript/decimal-to-binary.md)
 - [Difference between for...in and for...of](javascript/difference-between-for-in-and-for-of.md)
+- [The Set Data Structure in ES2015](javascript/set.md)
 
 ---
 
