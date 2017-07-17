@@ -43,6 +43,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### JavaScript
 
+- [Difference Between Lodash `Merge` and `Assign`](javascript/difference-between-lodash-assign-and-merge.md)
 - [An Intro to Node.js](javascript/nodejs-intro.md)
 - [How to Tell the Local Environment with JavaScript](javascript/how-to-tell-the-local-env-with-js.md)
 - [What's the Difference Between module.exports and exports](javascript/whats-the-difference-between-module-exports-and-exports.md)
