@@ -26,6 +26,10 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 - [What's the difference between *polyfill*, *shim*, and *fallback*](front-end-dev/whats-the-meaning-of-polyfill-fallback-shim.md)
 - [Is `setState` in ReactJS Asynchronous or Synchronous?](front-end-dev/reactjs-setstate.md)
 
+### CSS
+
+- [How to @Import CSS dependencies](css/import-dependencies.md)
+
 ### Git
 
 - [What is Cherrypick in Git](git/what-is-git-cherrypick.md)
