@@ -20,6 +20,9 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ---
 
+### Data Structure and Algorithms
+- [Find the Greatest Common Devisor and the Least Common Multiple](algorithms/gcd.md)
+
 ### Front-End
 
 - [What's the Meaning of the Trailing Space at the End of An Url](front-end-dev/trailing-space-url.md)
