@@ -24,6 +24,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 - [Sorting Algorithms in Python](algorithms/sorting.md)
 - [Common Search Algorithms in Python](algorithms/search.md)
 - [Find the Greatest Common Devisor and the Least Common Multiple](algorithms/gcd.md)
+- [Find All the Divisors](algorithms/find-all-divisors.md)
 - [Hexadecimal conversion](algorithms/hexadecimal-conversion.md)
 
 ### Front-End
@@ -31,6 +32,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 - [What's the Meaning of the Trailing Space at the End of An Url](front-end-dev/trailing-space-url.md)
 - [What's the difference between *polyfill*, *shim*, and *fallback*](front-end-dev/whats-the-meaning-of-polyfill-fallback-shim.md)
 - [Is `setState` in ReactJS Asynchronous or Synchronous?](front-end-dev/reactjs-setstate.md)
+- [How to Write a Module for Both Browser and Node.js](front-end-dev/sample-umd.md)
 
 ### CSS
 
