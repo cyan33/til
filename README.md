@@ -21,6 +21,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 ---
 
 ### Data Structure and Algorithms
+- [Two Sum IV - BFS & DFS](algorithms/two-sum-bfs-dfs.md)
 - [Sorting Algorithms in Python](algorithms/sorting.md)
 - [Common Search Algorithms in Python](algorithms/search.md)
 - [Find the Greatest Common Devisor and the Least Common Multiple](algorithms/gcd.md)
