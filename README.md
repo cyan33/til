@@ -57,6 +57,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### JavaScript
 
+- [Deep Clone for Array](javascript/array-deep-clone.md)
 - [Difference Between Lodash `Merge` and `Assign`](javascript/difference-between-lodash-assign-and-merge.md)
 - [An Intro to Node.js](javascript/nodejs-intro.md)
 - [How to Tell the Local Environment with JavaScript](javascript/how-to-tell-the-local-env-with-js.md)
