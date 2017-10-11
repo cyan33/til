@@ -21,6 +21,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 ---
 
 ### Data Structure and Algorithms
+- [XOR Swap Values](algorithms/xor-swap.md)
 - [Heap Queue / Priority Queue](algorithms/heap-queue.md)
 - [Two Sum IV - BFS & DFS](algorithms/two-sum-bfs-dfs.md)
 - [Sorting Algorithms in Python](algorithms/sorting.md)
