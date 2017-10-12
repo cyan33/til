@@ -39,6 +39,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### CSS
 
+- [Recap the Difference Among Inline, Block, Inline-Block](css/inline-block.md)
 - [How to @Import CSS dependencies](css/import-dependencies.md)
 
 ### Git
