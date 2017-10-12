@@ -33,13 +33,16 @@ Note that this is BFS, which is Breadth First Search. We search the values level
 
 ## DFS(recursive)
 
-```python
+```py
 class Solution:
   def dfs(self, node, k):
     if not node:
       return False
     if k - node.val in self.s:
       return True
+
+    self.s.add(node.val)
+
     return self.dfs(node.left, k) or self.dfs(node.right, k)
 
   def findTarget(self, root, k):
