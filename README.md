@@ -61,6 +61,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### JavaScript
 
+- [Properties Getters](javascript/getter.md)
 - [Deep Clone for Array](javascript/array-deep-clone.md)
 - [Difference Between Lodash `Merge` and `Assign`](javascript/difference-between-lodash-assign-and-merge.md)
 - [An Intro to Node.js](javascript/nodejs-intro.md)
