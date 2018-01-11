@@ -44,6 +44,7 @@ The catogories below could vary a lot from Front-End development, to the abstrac
 
 ### Git
 
+- [Git Hook Example](git/git-hook-example.md)
 - [Gitignore Tracked Files](git/ignore-tracked-files.md)
 - [What is Cherrypick in Git](git/what-is-git-cherrypick.md)
 - [Change the Commit History with Git Rebase](git/interactive-rebase.md)
